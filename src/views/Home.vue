@@ -5,7 +5,7 @@
            <h1>UI</h1>
            <h2>vue3造轮子</h2>
            <p class="actions">
-               <a href="https://pckinghao.github.io/panhaoUI/index.html">GitHub</a>
+               <a href="https://github.com/pckinghao/panhaoUI.git">GitHub</a>
                <router-link to="/doc">开始</router-link>
            </p>
        </div>
