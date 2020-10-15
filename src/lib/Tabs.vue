@@ -68,7 +68,7 @@ export const select = (title: string) => {
 <style lang="scss">
 $blue: #40a9ff;
 $color: #333;
-$border-color: #d9d9d9;
+$border-color: #958e8e;
 .gulu-tabs {
   &-nav {
     display: flex;

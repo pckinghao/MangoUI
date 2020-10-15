@@ -4,7 +4,7 @@
         <div class="menu"></div> -->
         <router-link to="/" class="logo">
             <svg class="icon">
-            <use xlink:href="#icon-king"></use>
+            <use xlink:href="#icon-mango"></use>
             </svg>
         </router-link>
         <ul class="menu">
@@ -48,6 +48,8 @@ $coclor:#007974;
     z-index: 20;
     justify-content: center;
     align-items: center;
+    // box-shadow: 0 3px 3px rgb(255,210,23);
+    // background: ;
     >.logo {
         max-width: 6em;
         margin-right: auto;

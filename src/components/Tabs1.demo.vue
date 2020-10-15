@@ -3,8 +3,10 @@
 </demo>
 <template>
 <Tabs v-model:selected="x">
-  <Tab title="导航1">内容1</Tab>
-  <Tab title="导航2">内容2</Tab>
+  <Tab title="导航1">当前是第一个tab页</Tab>
+  <Tab title="导航2">当前是第二个tab页</Tab>
+  <Tab title="导航3">当前是第三个tab页</Tab>
+  <Tab title="导航4">当前是第四个tab页</Tab>
 </Tabs>
 </template>
 

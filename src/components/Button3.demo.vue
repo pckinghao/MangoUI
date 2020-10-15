@@ -29,3 +29,8 @@ export default {
   }
 }
 </script>
+<style lang="scss" scoped>
+  button {
+    margin-bottom: 10px;
+  }
+</style>

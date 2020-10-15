@@ -24,7 +24,7 @@ export default {
     const showDialog = () => {
       openDialog({
         title: h('strong', {}, '标题'),
-        content: '你好',
+        content: '你好，您打开了弹窗',
         ok() {
           console.log('ok')
         },

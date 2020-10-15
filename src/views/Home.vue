@@ -3,8 +3,8 @@
       <div class="topnavAndBanner">
         <Topnav />
         <div class="banner">
-          <h1>panhaoUI</h1>
-          <h2>一个厉害的 UI 框架</h2>
+          <h1>MangoUI</h1>
+          <h2>一个简简单单的 UI 框架</h2>
           <p class="actions">
             <a href="https://github.com">GitHub</a>
             <router-link to="/doc">开始</router-link>
@@ -22,7 +22,7 @@
           </li>
           <li>
             <svg>
-              <use xlink:href="#icon-ts"></use>
+              <use xlink:href="#icon-typescript"></use>
             </svg>
             <h3>基于 TypeScript </h3>
             <p>源代码采用 TypeScript 书写（非严格检查）</p>
