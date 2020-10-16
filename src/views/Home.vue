@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="home">
       <div class="topnavAndBanner">
         <Topnav />
         <div class="banner">
